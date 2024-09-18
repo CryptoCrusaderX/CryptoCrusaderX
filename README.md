@@ -6,7 +6,7 @@ Cybersecurity Student
 
 ### About Me 
 
-Hello! I'm a dedicated Cybersecurity student with a passion for educating others on navigating the complexities of the cybersecurity industry. My mission is to empower individuals and organizations by providing personalized insights and educational content designed to promote success in this ever-evolving field.
+Hello! I'm a dedicated Cybersecurity student learning, building and figuring things out!
 
 ### What You'll Find Here 
 - Projects: Projects that i've created while doing my degree would also be here!
