@@ -1,15 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)    My name is Sarad!
 =============================================================================================================================
 
-Cybersecurity Student 
----------------------------------------
-
-### About Me 
-
-Hello! I'm a dedicated Cybersecurity student learning, building and figuring things out!
+Hello! I'm interested in computer science and also an student pursuing an CS cybersecurity degree while building and figuring things out!
 
 ### What You'll Find Here 
-- Projects: Projects that i've created while doing my degree would also be here!
+- Projects: Projects that i've created on my free will as well as on  my degree program would also be here!
 - Tools & Resources: Practical tools and resources aimed at enhancing your cybersecurity skills and knowledge.
 ### Skills
 
