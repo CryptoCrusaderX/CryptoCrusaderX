@@ -27,6 +27,5 @@ Hello! I'm interested in computer science and also an student pursuing an CS cyb
 
 
 <!---
-CryptoCrusaderX/CryptoCrusaderX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+SIKEEEEEEEE
 --->
