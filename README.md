@@ -1,31 +1,31 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)    My name is Sarad!
-=============================================================================================================================
+# sarad kandel
 
-Hello! I'm interested in computer science and also an student pursuing an CS cybersecurity degree while building and figuring things out!
+web application security · reverse engineering · final-year cybersecurity student
 
-### What You'll Find Here 
-- Projects: Projects that i've created on my free will as well as on  my degree program would also be here!
-- Tools & Resources: Practical tools and resources aimed at enhancing your cybersecurity skills and knowledge.
-### Skills
+---
 
-<p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a> <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a> <a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a> </p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat)
+![Ghidra](https://img.shields.io/badge/Ghidra-6E4C1E?style=flat)
 
+---
 
-### Socials
+Final year, BSc (Hons) Ethical Hacking & Cybersecurity — Softwarica College, in collaboration with Coventry University.
 
-<p align="left"> 
-  <a href="https://www.linkedin.com/in/saradkandel/" target="_blank" rel="noreferrer"> 
-    <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> 
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> 
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> 
-    </picture> 
-  </a>
-</p>
+Focused on web app security. Currently building toward active bug bounty hunting on HackerOne.
 
+## projects
 
+- **Krypto** — client-side encrypted form builder. RSA-2048, AES-256-GCM, RSA-OAEP, X.509, a mini CA.
+- **encrypted-form-builder** — Python/Flask encrypted form builder.
 
+---
 
+[LinkedIn](#)
 <!---
 SIKEEEEEEEE
 --->
