@@ -14,7 +14,6 @@ web application security · reverse engineering · final-year cybersecurity stud
 
 ---
 
-Final year, BSc (Hons) Ethical Hacking & Cybersecurity — Softwarica College, in collaboration with Coventry University.
 
 Focused on web app security.
 ## projects
