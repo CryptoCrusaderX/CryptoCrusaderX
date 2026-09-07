@@ -16,8 +16,7 @@ web application security · reverse engineering · final-year cybersecurity stud
 
 Final year, BSc (Hons) Ethical Hacking & Cybersecurity — Softwarica College, in collaboration with Coventry University.
 
-Focused on web app security. Currently building toward active bug bounty hunting on HackerOne.
-
+Focused on web app security.
 ## projects
 
 - **Krypto** — client-side encrypted form builder. RSA-2048, AES-256-GCM, RSA-OAEP, X.509, a mini CA.
