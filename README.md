@@ -22,9 +22,8 @@ I'm interested in pretty much everything the field has to offer, but networking,
 ---
 
 ## elsewhere
-
-[![LinkedIn](https://img.shields.io/badge/-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/saradkandel)
-[![Substack](https://img.shields.io/badge/-FF6719?style=flat&logo=substack&logoColor=white)](https://substack.com/@sarad474177)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/saradkandel)
+[![Substack](https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=white)](https://substack.com/@sarad474177)
 <!---
 SIKEEEEEEEE
 --->
