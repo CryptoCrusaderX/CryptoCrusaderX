@@ -1,29 +1,30 @@
-Hey, I'm **Sarad** — working through a bachelor's in cybersecurity.  
-Computer science pulls me in every direction, but web application security and security research are where I keep landing.  
+Hey, I'm **Sarad** — pursuing a bachelor's in computer science.  
+I'm interested in pretty much everything the field has to offer, but networking, web application security, and security research are what I'm most passionate about.
 
 ---
 
 ## stack
 
-![Python](https://img.shields.io/badge/python-3.11-blue?style=flat&logo=python&logoColor=white&labelColor=gray)
-![JavaScript](https://img.shields.io/badge/javascript-ES6+-yellow?style=flat&logo=javascript&logoColor=black&labelColor=gray)
-![Git](https://img.shields.io/badge/git-2.42-orange?style=flat&logo=git&logoColor=white&labelColor=gray)
-![Linux](https://img.shields.io/badge/linux-6.5-lightgrey?style=flat&logo=linux&logoColor=black&labelColor=gray)
-![Kali Linux](https://img.shields.io/badge/kali_linux-2023.3-blue?style=flat&logo=kalilinux&logoColor=white&labelColor=gray)
-![Vim](https://img.shields.io/badge/vim-9.0-green?style=flat&logo=vim&logoColor=white&labelColor=gray)
-![Docker](https://img.shields.io/badge/docker-24.0-blue?style=flat&logo=docker&logoColor=white&labelColor=gray)
-![Kubernetes](https://img.shields.io/badge/kubernetes-1.28-blue?style=flat&logo=kubernetes&logoColor=white&labelColor=gray)
-![Wireshark](https://img.shields.io/badge/wireshark-4.0-blue?style=flat&logo=wireshark&logoColor=white&labelColor=gray)
-![Burp Suite](https://img.shields.io/badge/burp_suite-2023.10-orange?style=flat&logo=burpsuite&logoColor=white&labelColor=gray)
-![Ghidra](https://img.shields.io/badge/ghidra-10.4-orange?style=flat&logo=ghidra&logoColor=white&labelColor=gray)
-![Splunk](https://img.shields.io/badge/splunk-9.0-black?style=flat&logo=splunk&logoColor=white&labelColor=gray)
-![Cisco](https://img.shields.io/badge/cisco_packet_tracer-8.2-blue?style=flat&logo=cisco&logoColor=white&labelColor=gray)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
+![Ghidra](https://img.shields.io/badge/Ghidra-FF7C00?style=flat&logo=ghidra&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
 
 ---
 
 ## elsewhere
 
-[LinkedIn](https://linkedin.com/in/saradkandel) · [Substack](https://substack.com/@sarad474177) · [GitHub](https://github.com/saradkandel)
+[![LinkedIn](https://img.shields.io/badge/-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/saradkandel)
+[![Substack](https://img.shields.io/badge/-FF6719?style=flat&logo=substack&logoColor=white)](https://substack.com/@sarad474177)
 <!---
 SIKEEEEEEEE
 --->
